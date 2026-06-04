@@ -30,31 +30,34 @@ header {
 }
 
 /* Navigation */
-
 nav {
-    background: #0a2f5c;
-    padding: 15px;
-    position: sticky;
-    top: 0;
+
+    background: #06284d;
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 25px;
+
+    padding: 18px;
 }
 
 nav a {
+
     color: white;
+
     text-decoration: none;
-    margin: 0 15px;
+
     font-weight: 600;
+
+    transition: 0.3s;
 }
 
 nav a:hover {
-    color: #7fd3ff;
+
+    color: #00a8e8;
 }
-
-/* Sections */
-
-section {
-    padding: 80px 10%;
-}
-
 h2 {
     color: #0a2f5c;
     margin-bottom: 20px;
