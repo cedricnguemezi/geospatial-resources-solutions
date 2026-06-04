@@ -13,9 +13,7 @@ body {
 /* Header */
 
 header {
-    background: linear-gradient(rgba(0,0,0,0.55),
-                                rgba(0,0,0,0.55)),
-                url("../images/hero.jpeg");
+    background: #0a2f5c;
     background-size: cover;
     background-position: center;
     height: 45vh;
