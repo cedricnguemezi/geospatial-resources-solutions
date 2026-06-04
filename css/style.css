@@ -133,3 +133,43 @@ header h1 {
     background: white;
     color: #0a2f5c;
 }
+/* NAVIGATION */
+
+.navbar {
+
+    background: #06284d;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 10px 40px;
+}
+
+.nav-logo img {
+
+    height: 60px;
+}
+
+.nav-links {
+
+    display: flex;
+
+    gap: 25px;
+}
+
+.nav-links a {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-weight: 600;
+}
+
+.nav-links a:hover {
+
+    color: #00a8e8;
+}
