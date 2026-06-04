@@ -18,7 +18,7 @@ header {
                 url("../images/hero.jpeg");
     background-size: cover;
     background-position: center;
-    height: 85vh;
+    height: 55vh;
 
     display: flex;
     flex-direction: column;
