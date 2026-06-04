@@ -13,7 +13,19 @@ body {
 /* Header */
 
 header {
-    background: #0a2f5c;
+    background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+                      url("../images/grs_banner_2026.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    color: white;
 }
 
 /* Navigation */
