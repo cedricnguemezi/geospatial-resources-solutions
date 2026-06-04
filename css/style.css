@@ -18,7 +18,7 @@ header {
                 url("../images/hero.jpeg");
     background-size: cover;
     background-position: center;
-    height: 50vh;
+    height: 45vh;
 
     display: flex;
     flex-direction: column;
@@ -150,7 +150,7 @@ header h1 {
 
 .nav-logo img {
 
-    height: 35px;
+    height: 40px;
 }
 
 .nav-links {
