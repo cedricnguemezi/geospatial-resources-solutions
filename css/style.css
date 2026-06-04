@@ -87,3 +87,46 @@ footer {
     text-align: center;
     padding: 25px;
 }
+/* HERO */
+
+.hero-logo {
+    width: 130px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin-bottom: 30px;
+}
+
+/* Buttons */
+
+.hero-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-primary,
+.btn-secondary {
+
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background: #00a8e8;
+    color: white;
+}
+
+.btn-secondary {
+    background: white;
+    color: #0a2f5c;
+}
