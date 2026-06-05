@@ -17,7 +17,7 @@ header {
                       url("../images/banner.jpeg");
     background-size: cover;
     background-position: center;
-    height: 55vh;
+    height: 50vh;
 
     display: flex;
     flex-direction: column;
@@ -37,7 +37,7 @@ nav {
 
     justify-content: center;
 
-    gap: 25px;
+    gap: 20px;
 
     padding: 18px;
 }
@@ -149,7 +149,7 @@ header h1 {
 
 .nav-logo img {
 
-    height: 60px;
+    height: 70px;
 }
 
 .nav-links {
