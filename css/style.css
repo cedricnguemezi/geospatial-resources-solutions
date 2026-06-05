@@ -136,7 +136,7 @@ header h1 {
 
 .navbar {
 
-    background: #4FC3F7;
+    background: #00a8e8;
 
     display: flex;
 
@@ -149,14 +149,14 @@ header h1 {
 
 .nav-logo img {
 
-    height: 55px;
+    height: 60px;
 }
 
 .nav-links {
 
     display: flex;
 
-    gap: 25px;
+    gap: 20px;
 }
 
 .nav-links a {
