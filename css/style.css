@@ -17,7 +17,7 @@ header {
                       url("../images/banner.jpeg");
     background-size: cover;
     background-position: center;
-    height: 65vh;
+    height: 55vh;
 
     display: flex;
     flex-direction: column;
