@@ -14,7 +14,7 @@ body {
 
 header {
     background-image: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
-                      url("../images/banner.jpeg");
+                      url("../images/couverture.jpeg");
     background-size: cover;
     background-position: center;
     height: 50vh;
