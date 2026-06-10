@@ -212,3 +212,32 @@ color: #0a2f5c;
     text-decoration: none;
 
 }
+.publication-card {
+
+background: white;
+
+padding: 20px;
+
+margin-bottom: 20px;
+
+border-radius: 10px;
+
+box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+
+}
+
+.publication-card h3 {
+
+color: #0a2f5c;
+
+margin-top: 0;
+
+}
+
+.publication-card:hover {
+
+transform: translateY(-3px);
+
+transition: 0.3s;
+
+}
