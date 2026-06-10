@@ -172,3 +172,36 @@ header h1 {
 
     color: #00a8e8;
 }
+.resource-grid {
+
+display: grid;
+
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+gap: 25px;
+
+padding: 40px;
+}
+
+.resource-card {
+
+background: white;
+
+padding: 25px;
+
+border-radius: 10px;
+
+box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+
+transition: 0.3s;
+}
+
+.resource-card:hover {
+
+transform: translateY(-5px);
+}
+
+.resource-card h2 {
+
+color: #0a2f5c;
+}
