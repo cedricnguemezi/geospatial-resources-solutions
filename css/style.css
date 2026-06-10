@@ -199,3 +199,16 @@ transform: translateY(-5px);
 
 color: #0a2f5c;
 }
+.resource-link {
+
+    text-decoration: none;
+
+    color: inherit;
+
+}
+
+.resource-link:hover {
+
+    text-decoration: none;
+
+}
